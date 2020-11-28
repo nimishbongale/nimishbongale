@@ -16,8 +16,9 @@ If you don't find me coding/writing I'll most likely be:
 1. Playing my guitar (nicknamed JaSON) :guitar:
 2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) 
 3. Watching animal rescue videos :dog: :cat:
+<br/>
 
-[<p align="center"> <img src="https://icon-library.net/images/link-icon-png/link-icon-png-0.jpg" width="40" height="40" />][1]
+[<p align='center'> <img src="https://icon-library.net/images/link-icon-png/link-icon-png-0.jpg" width="40" height="40" />][1]
 [<img src="https://image.flaticon.com/icons/svg/1384/1384014.svg" width="40" height="40" />][2]
 [<img src="https://image.flaticon.com/icons/svg/1384/1384017.svg" width="40" height="40" />][3]
 [<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png" width="40" height="40" /></p>][4]
