@@ -18,7 +18,7 @@ If you don't find me coding/writing I'll most likely be:
 3. Watching animal rescue videos :dog: :cat:
 <br/>
 
-[<p align='center'> <img src="https://cdn1.iconfinder.com/data/icons/black-round-web-icons/100/round-web-icons-black-39-512.png" width="45" height="45" />][1]
+[<p align='center'> <img src="https://cdn1.iconfinder.com/data/icons/black-round-web-icons/100/round-web-icons-black-39-512.png" width="47.5" height="47.5" />][1]
 [<img src="https://image.flaticon.com/icons/svg/1384/1384014.svg" width="40" height="40" />][2]
 [<img src="https://image.flaticon.com/icons/svg/1384/1384017.svg" width="40" height="40" />][3]
 [<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png" width="40" height="40" /></p>][4]
