@@ -14,7 +14,7 @@ I have done internships as a Technical Writer at [@creativecommons](https://www.
 
 If you don't find me coding/writing I'll most likely be:
 1. Playing my guitar (nicknamed JaSON) :guitar:
-2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) 
+2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) Username: LightKraft123
 3. Watching animal rescue videos :dog: :cat:
 <br/>
 
