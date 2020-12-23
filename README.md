@@ -18,7 +18,7 @@ If you don't find me coding/writing I'll most likely be:
 3. Watching animal rescue videos :dog: :cat:
 <br/>
 
-[<p align='center'> <img src="https://img.shields.io/badge/website-https://nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
+[<p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
 [<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
 [<img src="https://img.shields.io/badge/twitter-bongalenimish-lightblue?style=for-the-badge&logo=twitter"/>][4]
