@@ -1,6 +1,6 @@
 <h1>Hiya There! I'm Nimish! <img src="https://media.giphy.com/media/tJU72w9lPzUPe/giphy.gif" width="40" height="35"></h1>
 
-<img align='right' src="https://cliply.co/wp-content/uploads/2019/06/371906220_TYPING_ON_LAPTOP_400px.gif" width="400">
+<img align='right' src="/me.jpg" width="400">
 
 <div align="left">		
 I am a final year student at RIT, Bangalore, pursuing my Bachelors in Information Science.<br>
