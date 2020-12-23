@@ -18,12 +18,15 @@ If you don't find me coding/writing I'll most likely be:
 3. Watching animal rescue videos :dog: :cat:
 <br/>
 
-[<p align='center'> <img src="https://cdn1.iconfinder.com/data/icons/black-round-web-icons/100/round-web-icons-black-39-512.png" width="47.5" height="47.5" />][1]
-[<img src="https://image.flaticon.com/icons/svg/1384/1384014.svg" width="40" height="40" />][2]
-[<img src="https://image.flaticon.com/icons/svg/1384/1384017.svg" width="40" height="40" />][3]
-[<img src="https://cdn4.iconfinder.com/data/icons/miu-black-social-2/60/quora-512.png" width="40" height="40" /></p>][4]
+[<p align='center'> <img src="https://img.shields.io/badge/website-https://nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
+[<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
+[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
+[<img src="https://img.shields.io/badge/twitter-bongalenimish-lightblue?style=for-the-badge&logo=twitter"/>][4]
+[<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][5]
 
  [1]: https://nimishbongale.github.io/
- [2]: https://www.linkedin.com/in/nimish-bongale/
- [3]: https://twitter.com/BongaleNimish
- [4]: https://www.quora.com/profile/Nimish-Bongale
+ [2]: mailto:nimishnb98@gmail.com
+ [3]: https://www.linkedin.com/in/nimish-bongale/
+ [4]: https://twitter.com/BongaleNimish
+ [5]: https://www.quora.com/profile/Nimish-Bongale
+ 
