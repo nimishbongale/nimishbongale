@@ -2,11 +2,9 @@
 
 <img align='right' src="/me.jpg" width="400">
 
-<div align="left">		
-I am a final year student at RIT, Bangalore, pursuing my Bachelors in Information Science.<br>
-</div>
+![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
 
-I have done internships as a Technical Writer at [@creativecommons](https://www.creativecommons.org/) (via Google Season of Docs 2020) and at [@divum](https://divum.in/) as an SDE. Follow my GSoD journey [here](https://opensource.creativecommons.org/blog/entries/).
+I am a final year student at RIT Bangalore, pursuing my Bachelors in Information Science. I have done internships at [@creativecommons](https://www.creativecommons.org/) (via Google Season of Docs 2020) and at [@divum](https://divum.in/). Follow my GSoD journey [here](https://opensource.creativecommons.org/blog/entries/).
 
 - :computer: Tech Stack: HTML, CSS, JavaScript, React, Vue, React Native, Flutter, Flask, NodeJS, Neo4j
  - 💬 Ask me anything about Technical Documentation, Front-End Development, Music & Chess!
