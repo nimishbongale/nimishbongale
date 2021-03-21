@@ -10,7 +10,7 @@ I am a final year student at RIT Bangalore, pursuing my Bachelors in Information
 - Technical Writing Intern [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
 - SDE Intern [@divum](https://divum.in/) 
 
-- :computer: Tech Stack: HTML, CSS, JavaScript, React, Vue, React Native, Flutter, Flask, NodeJS, Neo4j
+:computer: Tech Stack: HTML, CSS, JavaScript, React, Vue, React Native, Flutter, Flask, NodeJS, Neo4j
  - 💬 Ask me anything about Technical Documentation, Front-End Development, Music & Chess!
  - ❤️ I love contributing and collaborating! 
 
