@@ -4,7 +4,11 @@
 
 ![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
 
-I am a final year student at RIT Bangalore, pursuing my Bachelors in Information Science. I have done internships at [@creativecommons](https://www.creativecommons.org/) (via Google Season of Docs 2020) and at [@divum](https://divum.in/). Follow my GSoD journey [here](https://opensource.creativecommons.org/blog/entries/).
+I am a final year student at RIT Bangalore, pursuing my Bachelors in Information Science. Here's my professional life timeline!
+
+- SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
+- Technical Writing Intern [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
+- SDE Intern [@divum](https://divum.in/) 
 
 - :computer: Tech Stack: HTML, CSS, JavaScript, React, Vue, React Native, Flutter, Flask, NodeJS, Neo4j
  - 💬 Ask me anything about Technical Documentation, Front-End Development, Music & Chess!
