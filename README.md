@@ -4,13 +4,14 @@
 
 ![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
 
-I am a final year student at RIT Bangalore, pursuing my Bachelors in Information Science. Here's my professional life timeline!
+I'm current a Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
 
+- Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writing Intern [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
 - SDE Intern [@divum](https://divum.in/) 
 
-:computer: Tech Stack: HTML, CSS, JavaScript, React, Vue, React Native, Flutter, Flask, NodeJS, Neo4j
+:computer: Tech Stack: React, Vue, TypeScript, Electron, React Native, Flutter, Flask, NodeJS, Neo4j
  - 💬 Ask me anything about Technical Documentation, Front-End Development, Music & Chess!
  - ❤️ I love contributing and collaborating! 
 
