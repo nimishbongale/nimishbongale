@@ -4,7 +4,7 @@
 
 ![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
 
-I'm current a Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
+I'm currently a Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
 
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
