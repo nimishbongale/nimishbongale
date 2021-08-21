@@ -6,8 +6,8 @@
 
 I'm currently a Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
 
-- Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
-- SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
+- SWE [@jpmorganchase](https://www.jpmorganchase.com/)
+- Intern [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writing Intern [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
 - SDE Intern [@divum](https://divum.in/) 
 
