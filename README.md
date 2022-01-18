@@ -3,13 +3,23 @@
 <img align='right' src="/me.jpg" width="400">
 
 ![](https://komarev.com/ghpvc/?username=nimishbongale&style=flat-square)
+[![Twitter Follow](https://img.shields.io/twitter/follow/BongaleNimish?style=social)](https://twitter.com/BongaleNimish)
+[![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNOo9W4dFiez2mteDzUYIiA?style=social)](https://www.youtube.com/channel/UCNOo9W4dFiez2mteDzUYIiA)
+[![GitHub followers](https://img.shields.io/github/followers/nimishbongale?style=social)](https://github.com/nimishbongale)
 
-I'm currently a Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
+I'm currently a Software Engineer Analyst at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
 
-- SWE [@jpmorganchase](https://www.jpmorganchase.com/)
-- Intern [@jpmorganchase](https://www.jpmorganchase.com/)
-- Technical Writing Intern [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
-- SDE Intern [@divum](https://divum.in/) 
+- Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
+- SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
+- Technical Writer [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
+- SDE Intern [@divum](https://divum.in/)
+
+
+[<br><p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
+[<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
+[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
+[<img src="https://img.shields.io/badge/twitter-bongalenimish-lightblue?style=for-the-badge&logo=twitter"/>][4]
+[<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][5]
 
 :computer: Tech Stack: React, Vue, TypeScript, Electron, React Native, Flutter, Flask, NodeJS, Neo4j
  - 💬 Ask me anything about Technical Documentation, Front-End Development, Music & Chess!
@@ -20,12 +30,6 @@ If you don't find me coding/writing I'll most likely be:
 2. Playing chess ([challenge](https://lichess.org/?any#friend) me!) Username: LightKraft123
 3. Watching animal rescue videos :dog: :cat:
 <br/>
-
-[<p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
-[<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
-[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
-[<img src="https://img.shields.io/badge/twitter-bongalenimish-lightblue?style=for-the-badge&logo=twitter"/>][4]
-[<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][5]
 
  [1]: https://nimishbongale.github.io/
  [2]: mailto:nimishnb98@gmail.com
