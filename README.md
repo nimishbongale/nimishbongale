@@ -12,8 +12,8 @@ I'm currently a Software Engineer Analyst at JP Morgan Chase & Co. I've complete
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writer [@digitalocean](https://www.digitalocean.com/)
 - SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
-- Student Collaborator [@rucio](https://www.creativecommons.org/) (via Google Summer of Code)
-- Technical Writer [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
+- GSOC Student Collaborator [@rucio](https://www.creativecommons.org/) (via Google Summer of Code)
+- GSOD Technical Writer [@creativecommons](https://www.creativecommons.org/) (Follow my Google Season of Docs journey [here](https://opensource.creativecommons.org/blog/entries/)!)
 - SDE Intern [@divum](https://divum.in/)
 
 
