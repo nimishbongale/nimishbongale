@@ -7,9 +7,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNOo9W4dFiez2mteDzUYIiA?style=social)](https://www.youtube.com/channel/UCNOo9W4dFiez2mteDzUYIiA)
 [![GitHub followers](https://img.shields.io/github/followers/nimishbongale?style=social)](https://github.com/nimishbongale)
 
-I'm currently an Associate Software Engineer at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
+I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
 
-- Associate Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
+- Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writer [@digitalocean](https://www.digitalocean.com/)
 - SWE Intern [@jpmorganchase](https://www.jpmorganchase.com/)
