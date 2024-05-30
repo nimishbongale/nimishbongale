@@ -9,6 +9,7 @@
 
 I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
 
+- R&D Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writer [@digitalocean](https://www.digitalocean.com/)
