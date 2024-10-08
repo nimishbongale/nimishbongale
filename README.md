@@ -22,7 +22,7 @@ I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my
 [<br><p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
 [<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
 [<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
-[<img src="https://img.shields.io/badge/twitter-bongalenimish-lightblue?style=for-the-badge&logo=twitter"/>][4]
+[<img src="https://img.shields.io/badge/x-bongalenimish-lightblue?style=for-the-badge&logo=x"/>][4]
 [<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][5]
 
 :computer: Tech Stack: 
@@ -32,18 +32,15 @@ I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my
 
 <br/>
 
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23323330.svg?style=for-the-badge&logo=typescript&logoColor=%23F7DF1E)
 ![ReactJS](https://img.shields.io/badge/react-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
-![VueJS](https://img.shields.io/badge/vue-%23ED8B00.svg?style=for-the-badge&logo=vue&logoColor=white)
+![Python](https://img.shields.io/badge/python-%2300599C.svg?style=for-the-badge&logo=python&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=amazonwebservices&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react%20native-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
+![VueJS](https://img.shields.io/badge/vue-%23ED8B00.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![CSS3](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
+![Neo4JS](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </br>
 
