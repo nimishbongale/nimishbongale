@@ -7,9 +7,9 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNOo9W4dFiez2mteDzUYIiA?style=social)](https://www.youtube.com/channel/UCNOo9W4dFiez2mteDzUYIiA)
 [![GitHub followers](https://img.shields.io/github/followers/nimishbongale?style=social)](https://github.com/nimishbongale)
 
-I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my bachelors at RIT, Bangalore. Here's a peek at my professional life timeline!
+I'm currently a Research Software Engineer II at JP Morgan Chase & Co. Here's a peek at my professional life timeline!
 
-- R&D Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
+- Research Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writer [@digitalocean](https://www.digitalocean.com/)
@@ -19,11 +19,10 @@ I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my
 - SDE Intern [@divum](https://divum.in/)
 
 
-[<br><p align='center'> <img src="https://img.shields.io/badge/website-nimishbongale.github.io-green?style=for-the-badge&logo=appveyor"/>][1]
-[<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][2]
-[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][3]
-[<img src="https://img.shields.io/badge/x-bongalenimish-lightblue?style=for-the-badge&logo=x"/>][4]
-[<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][5]
+[<img src="https://img.shields.io/badge/email-nimishnb98@gmail.com-orange?style=for-the-badge&logo=google"/>][1]
+[<img src="https://img.shields.io/badge/linkedin-nimishbongale-blue?style=for-the-badge&logo=linkedin"/>][2]
+[<img src="https://img.shields.io/badge/x-bongalenimish-lightblue?style=for-the-badge&logo=x"/>][3]
+[<img src="https://img.shields.io/badge/quora-nimishbongale-red?style=for-the-badge&logo=quora"/></p>][4]
 
 :computer: Tech Stack: 
 
@@ -38,9 +37,7 @@ I'm currently an Software Engineer II at JP Morgan Chase & Co. I've completed my
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![AWS](https://img.shields.io/badge/aws-%23323330.svg?style=for-the-badge&logo=amazonwebservices&logoColor=%23F7DF1E)
 ![React Native](https://img.shields.io/badge/react%20native-%23E34F26.svg?style=for-the-badge&logo=react&logoColor=white)
-![VueJS](https://img.shields.io/badge/vue-%23ED8B00.svg?style=for-the-badge&logo=vuedotjs&logoColor=white)
 ![Flutter](https://img.shields.io/badge/flutter-%231572B6.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Neo4JS](https://img.shields.io/badge/neo4j-%231572B6.svg?style=for-the-badge&logo=neo4j&logoColor=white)
 
 </br>
 
@@ -54,9 +51,8 @@ If you don't find me coding/writing I'll most likely be:
 
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimishbongale&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
 
- [1]: https://nimishbongale.github.io/
- [2]: mailto:nimishnb98@gmail.com
- [3]: https://www.linkedin.com/in/nimish-bongale/
- [4]: https://twitter.com/BongaleNimish
- [5]: https://www.quora.com/profile/Nimish-Bongale
+ [1]: mailto:nimishnb98@gmail.com
+ [2]: https://www.linkedin.com/in/nimish-bongale/
+ [3]: https://twitter.com/BongaleNimish
+ [4]: https://www.quora.com/profile/Nimish-Bongale
  
