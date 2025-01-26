@@ -7,7 +7,7 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNOo9W4dFiez2mteDzUYIiA?style=social)](https://www.youtube.com/channel/UCNOo9W4dFiez2mteDzUYIiA)
 [![GitHub followers](https://img.shields.io/github/followers/nimishbongale?style=social)](https://github.com/nimishbongale)
 
-I'm currently a Research Software Engineer II at JP Morgan Chase & Co. Here's a peek at my professional life timeline!
+I'm currently a Research Software Engineer III at JP Morgan Chase & Co. Here's a peek at my professional life timeline!
 
 - Research Software Engineer III [@jpmorganchase](https://www.jpmorganchase.com/)
 - Research Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
