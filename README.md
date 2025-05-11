@@ -9,8 +9,8 @@
 
 I'm currently a Research Software Engineer III at JP Morgan Chase & Co. Here's a peek at my professional life timeline!
 
-- Research Software Engineer III [@jpmorganchase](https://www.jpmorganchase.com/)
-- Research Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
+- Senior Research Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
+- Research Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writer [@digitalocean](https://www.digitalocean.com/)
