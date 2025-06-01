@@ -7,10 +7,10 @@
 [![YouTube Channel Views](https://img.shields.io/youtube/channel/views/UCNOo9W4dFiez2mteDzUYIiA?style=social)](https://www.youtube.com/channel/UCNOo9W4dFiez2mteDzUYIiA)
 [![GitHub followers](https://img.shields.io/github/followers/nimishbongale?style=social)](https://github.com/nimishbongale)
 
-I'm currently a Research Software Engineer III at JP Morgan Chase & Co. Here's a peek at my professional life timeline!
+I'm currently a Senior AI Engineer at JP Morgan Chase & Co. Here's a peek at my professional life timeline!
 
-- Senior Research Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
-- Research Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
+- Senior AI Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
+- AI Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer II [@jpmorganchase](https://www.jpmorganchase.com/)
 - Software Engineer [@jpmorganchase](https://www.jpmorganchase.com/)
 - Technical Writer [@digitalocean](https://www.digitalocean.com/)
