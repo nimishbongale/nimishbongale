@@ -50,7 +50,7 @@ If you don't find me coding/writing I'll most likely be:
 
 <br/>
 
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimishbongale&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p>
+<!-- <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=nimishbongale&theme=dark&ring=FFB19A&hide_border=true&currStreakNum=F6A085&fire=F6A085&currStreakLabel=F6A085"></p> -->
 
  [1]: mailto:nimishnb98@gmail.com
  [2]: https://www.linkedin.com/in/nimish-bongale/
